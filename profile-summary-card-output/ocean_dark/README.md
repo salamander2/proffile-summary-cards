@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/salamander2/proffile-summary-cards/master/profile-summary-card-output/ocean_dark/4-productive-time.svg)
-```
-
-    
