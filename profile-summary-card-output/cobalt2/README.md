@@ -52,3 +52,13 @@
 ```
 
     
+
+---
+
+![](./4-productive-time.svg)
+
+```
+![](https://raw.githubusercontent.com/salamander2/proffile-summary-cards/master/profile-summary-card-output/cobalt2/4-productive-time.svg)
+```
+
+    
